@@ -24,6 +24,7 @@ namespace JPB.Shell
         public static void Main(string[] param)
         {
             Main2();
+
         }
 
         [DebuggerStepThrough]
